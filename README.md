@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am currently working on ReactJS
-
+I am currently working on Cybersecurity projects.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mi-khin-hanthar-soe-3849aa25b) 
