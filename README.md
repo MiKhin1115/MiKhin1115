@@ -86,31 +86,9 @@ I enjoy building real-world projects that combine security, automation, interact
 
 ---
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=mikhin1115&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=mikhin1115&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mikhin1115&theme=tokyonight&hide_border=true&layout=compact)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=mikhin1115&theme=tokyonight&no-frame=true&margin-w=10&row=1)
-
----
-
 # 📈 Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=mikhin1115&theme=tokyo-night&hide_border=true)
-
----
-
-# 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=mikhin1115&style=for-the-badge&color=0e75b6)
 
 ---
 
